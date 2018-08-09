@@ -11,6 +11,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/s11luffycity$tests.coverage" NAME="tests Coverage Results" MODIFIED="1533552097247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/s11luffycity$1.coverage" NAME="1 Coverage Results" MODIFIED="1533813350701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/s11luffycity$tests__1_.coverage" NAME="tests (1) Coverage Results" MODIFIED="1533552771907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app01" />
   </component>
   <component name="DatabaseView">
@@ -42,7 +43,7 @@
       <file leaf-file-name="course.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api/views/course.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-334">
+            <state relative-caret-position="0">
               <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
@@ -63,8 +64,8 @@
       <file leaf-file-name="api_urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api/api_urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="74">
+              <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="22" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -75,55 +76,19 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/s11luffycity/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="41" column="20" lean-forward="true" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+            <state relative-caret-position="424">
+              <caret line="134" column="41" lean-forward="false" selection-start-line="134" selection-start-column="41" selection-end-line="134" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cors.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/md/cors.py">
+      <file leaf-file-name="shoppingcar.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/api/views/shoppingcar.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#52#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/api/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
-              <folding>
-                <element signature="e#1870#2390#0" expanded="false" />
-                <element signature="e#2430#2809#0" expanded="false" />
-                <element signature="e#4618#5453#0" expanded="false" />
-                <element signature="e#5500#6013#0" expanded="false" />
-                <element signature="e#6498#7041#0" expanded="false" />
-                <element signature="e#7083#8005#0" expanded="false" />
-                <element signature="e#8042#9013#0" expanded="false" />
-                <element signature="e#9013#9048#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="course.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/serializers/course.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1500">
-              <caret line="81" column="37" lean-forward="true" selection-start-line="81" selection-start-column="37" selection-end-line="81" selection-end-column="37" />
-              <folding>
-                <element signature="e#0#22#0" expanded="true" />
-                <element signature="e#279#557#0" expanded="false" />
-                <element signature="e#1760#2377#0" expanded="false" />
-                <element signature="e#2857#3151#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="125">
+              <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="6" selection-end-column="57" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -156,13 +121,20 @@
         <option value="$PROJECT_DIR$/s11luffycity/urls.py" />
         <option value="$PROJECT_DIR$/api/utils/my_response.py" />
         <option value="C:/文档/my/python11期day98/s11luffy_city/api/serializers/course.py" />
-        <option value="$PROJECT_DIR$/api/api_urls.py" />
         <option value="$PROJECT_DIR$/api/views/course.py" />
         <option value="$PROJECT_DIR$/api/serializers/course.py" />
         <option value="$PROJECT_DIR$/api/md/CorsMiddleware.py" />
-        <option value="$PROJECT_DIR$/api/md/cors.py" />
         <option value="C:/文档/my/python11期day99/s11luffy_city/s11luffy_city/settings.py" />
+        <option value="$PROJECT_DIR$/api/md/cors.py" />
+        <option value="$PROJECT_DIR$/1.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/s11day100.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/cors.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/settings.py" />
         <option value="$PROJECT_DIR$/s11luffycity/settings.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/shoppingcar.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/urls.py" />
+        <option value="$PROJECT_DIR$/api/api_urls.py" />
+        <option value="$PROJECT_DIR$/api/views/shoppingcar.py" />
       </list>
     </option>
   </component>
@@ -173,8 +145,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="8" />
-    <option name="y" value="33" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1296" />
     <option name="height" value="696" />
   </component>
@@ -209,7 +181,28 @@
               <item name="s11luffycity" type="b2602c69:ProjectViewProjectNode" />
               <item name="s11luffycity" type="462c0819:PsiDirectoryNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="md" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="s11luffycity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="s11luffycity" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="my_response.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="s11luffycity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="s11luffycity" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="my_response.py" type="8704e2dd:PyFileNode" />
+              <item name="BaseResponse" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="s11luffycity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="s11luffycity" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="s11luffycity" type="b2602c69:ProjectViewProjectNode" />
@@ -227,7 +220,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="C:/文档/my/python11期day99/src" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -241,7 +234,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Django server.s11luffycity">
+  <component name="RunManager" selected="Python.1">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="s11luffycity" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="s11luffycity" type="Python.DjangoServer" factoryName="Django server">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -301,15 +312,17 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Django server.s11luffycity" />
       <item index="1" class="java.lang.String" itemvalue="Python.tests" />
       <item index="2" class="java.lang.String" itemvalue="Python.tests (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.1" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.tests (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.tests" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.1" />
+        <item index="1" class="java.lang.String" itemvalue="Python.tests (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.tests" />
       </list>
     </recent_temporary>
   </component>
@@ -330,15 +343,15 @@
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12481089" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14372164" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1709531" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15960665" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32852563" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3878205" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33173078" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.63621795" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.63619405" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -382,69 +395,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/文档/my/python11期day98/s11luffy_city/app01/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2400">
-          <caret line="101" column="45" lean-forward="false" selection-start-line="101" selection-start-column="45" selection-end-line="101" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/serializers/course.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1550">
-          <caret line="83" column="32" lean-forward="true" selection-start-line="83" selection-start-column="32" selection-end-line="83" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-            <element signature="e#279#557#0" expanded="false" />
-            <element signature="e#1760#2377#0" expanded="false" />
-            <element signature="e#2857#3151#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/views.py" />
-    <entry file="file://$PROJECT_DIR$/api/api_urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="11" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/s11luffycity/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1025">
-          <caret line="41" column="20" lean-forward="false" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/s11luffycity/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/views.py" />
-    <entry file="file://$PROJECT_DIR$/api/api_urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="11" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/s11luffycity/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -624,13 +579,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://table:/28cb85c1/6c166529-97dc-41ab-b820-d67761a11245/main.api_course">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="das://table:/28cb85c1/6c166529-97dc-41ab-b820-d67761a11245/main.api_coursedetail">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -680,58 +628,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/md/cors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#52#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/文档/my/python11期day99/s11luffy_city/s11luffy_city/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="52" column="4" lean-forward="false" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/views/course.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-334">
-          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-            <element signature="e#1139#1525#0" expanded="false" />
-            <element signature="e#1569#1991#0" expanded="false" />
-            <element signature="e#2030#2452#0" expanded="false" />
-            <element signature="e#2492#2895#0" expanded="false" />
-            <element signature="e#2934#3360#0" expanded="false" />
-            <element signature="e#3398#3872#0" expanded="false" />
-            <element signature="e#3914#4342#0" expanded="false" />
-            <element signature="e#4383#4812#0" expanded="false" />
-            <element signature="e#4853#5272#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/api_urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/s11luffycity/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="41" column="20" lean-forward="true" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -739,16 +639,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="524">
           <caret line="101" column="45" lean-forward="false" selection-start-line="101" selection-start-column="45" selection-end-line="101" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/api/serializers/course.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1500">
-          <caret line="81" column="37" lean-forward="true" selection-start-line="81" selection-start-column="37" selection-end-line="81" selection-end-column="37" />
+          <caret line="81" column="37" lean-forward="false" selection-start-line="81" selection-start-column="37" selection-end-line="81" selection-end-column="37" />
           <folding>
-            <element signature="e#0#22#0" expanded="true" />
+            <element signature="e#0#22#0" expanded="false" />
             <element signature="e#279#557#0" expanded="false" />
             <element signature="e#1760#2377#0" expanded="false" />
             <element signature="e#2857#3151#0" expanded="false" />
@@ -770,6 +669,125 @@
             <element signature="e#8042#9013#0" expanded="false" />
             <element signature="e#9013#9048#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/md/cors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="32" lean-forward="false" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#52#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/views/course.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+            <element signature="e#1139#1525#0" expanded="false" />
+            <element signature="e#1569#1991#0" expanded="false" />
+            <element signature="e#2030#2452#0" expanded="false" />
+            <element signature="e#2492#2895#0" expanded="false" />
+            <element signature="e#2934#3360#0" expanded="false" />
+            <element signature="e#3398#3872#0" expanded="false" />
+            <element signature="e#3914#4342#0" expanded="false" />
+            <element signature="e#4383#4812#0" expanded="false" />
+            <element signature="e#4853#5272#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/s11day100.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1125">
+          <caret line="102" column="4" lean-forward="true" selection-start-line="102" selection-start-column="4" selection-end-line="102" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/cors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="138" column="0" lean-forward="false" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/s11luffycity/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="134" column="41" lean-forward="false" selection-start-line="134" selection-start-column="41" selection-end-line="134" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="91" lean-forward="true" selection-start-line="11" selection-start-column="91" selection-end-line="11" selection-end-column="124" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/28cb85c1/6c166529-97dc-41ab-b820-d67761a11245/main.api_course">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/28cb85c1/6c166529-97dc-41ab-b820-d67761a11245/main.api_pricepolicy">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/api_urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/shoppingcar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1198">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/views/shoppingcar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="6" selection-end-column="57" />
+          <folding />
         </state>
       </provider>
     </entry>
